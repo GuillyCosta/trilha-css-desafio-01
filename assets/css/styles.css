@@ -35,12 +35,12 @@ h2 {
   letter-spacing: 4px;
   text-transform: uppercase;
   margin-bottom: 24px;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 p {
   color: white;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 section {
@@ -71,13 +71,13 @@ section {
   background: -webkit-linear-gradient(#33A8DB, #1472B7);
   background-clip: text;
   -webkit-background-clip: text;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 .banner p {
   font-size: 1.25rem;
   margin: 16px 0 24px;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 .banner .logo {
@@ -108,13 +108,13 @@ section {
   border-image: linear-gradient(#3BA1CD, #1572B7);
   border-image-slice: 10;
   border-radius: 30px;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 #course-content {
   width: 800px;
   text-align: center;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 #course-content .modules-list {
@@ -152,7 +152,7 @@ section {
   text-transform: lowercase;
   max-width: 250px;
   text-shadow: 3px 2px #33A8DB;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 #professional-challenges {
@@ -169,7 +169,7 @@ footer {
   text-align: center;
   background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
   border-top: 1px solid #33A8DB80;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
 
 footer .dio-logo {
@@ -180,5 +180,5 @@ footer a {
   color: #33A8DB;
   font-weight: bold;
   text-decoration: none;
-  text-shadow: 2px 2px;
+  text-shadow: 1px 1px;
 }
