@@ -16,6 +16,9 @@ body {
 }
 
 h2 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   font-size: 2rem;
   color: #33A8DB;
   font-weight: bold;
@@ -25,6 +28,9 @@ h2 {
 }
 
 p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   color: white;
 }
 
@@ -49,6 +55,9 @@ section {
 }
 
 .banner h1 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   font-size: 2.5rem;
   font-weight: 900;
   text-transform: uppercase;
@@ -59,6 +68,9 @@ section {
 }
 
 .banner p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   font-size: 1.25rem;
   margin: 16px 0 24px;
 }
@@ -81,6 +93,9 @@ section {
 }
 
 .banner .banner-content button {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   color: #31A8DD;
   font-size: 1rem;
   font-weight: bold;
@@ -128,6 +143,9 @@ section {
 }
 
 #transform-world p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   font-weight: 900;
   font-size: 2.5rem;
   text-transform: lowercase;
@@ -156,6 +174,9 @@ footer .dio-logo {
 }
 
 footer a {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
   color: #33A8DB;
   font-weight: bold;
   text-decoration: none;
