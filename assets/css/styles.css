@@ -1,101 +1,22 @@
 @import url('reset.css');
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 300 to 800
-
-.roboto-thin {
-  font-family: "Roboto", sans-serif;
-  font-weight: 100;
-  font-style: normal;
-}
-
-.roboto-light {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.roboto-regular {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.roboto-medium {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.roboto-bold {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.roboto-black {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  font-style: normal;
-}
-
-.roboto-thin-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 100;
-  font-style: italic;
-}
-
-.roboto-light-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-style: italic;
-}
-
-.roboto-regular-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.roboto-medium-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: italic;
-}
-
-.roboto-bold-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-style: italic;
-}
-
-.roboto-black-italic {
-  font-family: "Roboto", sans-serif;
-  font-weight: 900;
-  font-style: italic;
-}
-
 
 body {
   background-color: black;
 }
 
 h2 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   font-size: 2rem;
   color: #33A8DB;
   font-weight: bold;
   letter-spacing: 4px;
   text-transform: uppercase;
   margin-bottom: 24px;
+  text-shadow: 2px 2px;
 }
 
 p {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   color: white;
+  text-shadow: 2px 2px;
 }
 
 section {
@@ -119,9 +40,6 @@ section {
 }
 
 .banner h1 {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   font-size: 2.5rem;
   font-weight: 900;
   text-transform: uppercase;
@@ -129,14 +47,13 @@ section {
   background: -webkit-linear-gradient(#33A8DB, #1472B7);
   background-clip: text;
   -webkit-background-clip: text;
+  text-shadow: 2px 2px;
 }
 
 .banner p {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   font-size: 1.25rem;
   margin: 16px 0 24px;
+  text-shadow: 2px 2px;
 }
 
 .banner .logo {
@@ -157,9 +74,6 @@ section {
 }
 
 .banner .banner-content button {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   color: #31A8DD;
   font-size: 1rem;
   font-weight: bold;
@@ -170,11 +84,13 @@ section {
   border-image: linear-gradient(#3BA1CD, #1572B7);
   border-image-slice: 10;
   border-radius: 30px;
+  text-shadow: 2px 2px;
 }
 
 #course-content {
   width: 800px;
   text-align: center;
+  text-shadow: 2px 2px;
 }
 
 #course-content .modules-list {
@@ -207,14 +123,12 @@ section {
 }
 
 #transform-world p {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   font-weight: 900;
   font-size: 2.5rem;
   text-transform: lowercase;
   max-width: 250px;
   text-shadow: 3px 2px #33A8DB;
+  text-shadow: 2px 2px;
 }
 
 #professional-challenges {
@@ -231,6 +145,7 @@ footer {
   text-align: center;
   background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
   border-top: 1px solid #33A8DB80;
+  text-shadow: 2px 2px;
 }
 
 footer .dio-logo {
@@ -238,10 +153,8 @@ footer .dio-logo {
 }
 
 footer a {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
   color: #33A8DB;
   font-weight: bold;
   text-decoration: none;
+  text-shadow: 2px 2px;
 }
